@@ -1,6 +1,6 @@
 
 # README: ABC Institution Report (2021-2023)
-
+![Dashboard](https://github.com/SyedMohammadMurshid/ABC-institution-Report/blob/main/ABC%20institution%20report.PNG)
 ## Overview
 This repository contains a comprehensive analysis of ABC Institution's course enrollments, fee collection, certificate issuance, and student demographics from 2021 to 2023. The project leverages Power BI for data visualization and Excel for data handling.
 
